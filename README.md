@@ -1,6 +1,6 @@
 **Watermarks on python**
 
-This is shot project on creates watermarks in python with Pillows and python 3
+This is shot project on creates watermarks in python 3 with Pillows
 
 for start this use im commandline
 
